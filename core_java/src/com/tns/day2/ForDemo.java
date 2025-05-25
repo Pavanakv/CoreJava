@@ -1,4 +1,4 @@
-package com.atria.day2;
+package com.tns.day2;
 
 public class ForDemo {
 

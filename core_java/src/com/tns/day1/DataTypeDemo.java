@@ -1,4 +1,4 @@
-package com.atria.day1;
+package com.tns.day1;
 
 public class DataTypeDemo {
 
